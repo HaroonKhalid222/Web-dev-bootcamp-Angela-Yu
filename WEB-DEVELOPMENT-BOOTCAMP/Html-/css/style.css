@@ -1,0 +1,39 @@
+        body{
+            background-color: #F6F1F1;
+        }
+        /* ol li:hover{
+            background-color: black;
+            color: rgb(112, 128, 128);
+            border: 2px solid rgb(160, 160, 189);
+            width: 50%;
+            /* display: block; 
+        } */
+        img{
+            border-radius: 100%;
+            width: 60%;
+            
+            
+        }
+        a{
+            color: black;
+        }
+        a:hover{
+            color: rgb(112, 105, 105);
+            
+            border:none;
+        }
+        /* #haroon:hover{
+            background-color: antiquewhite;
+            motion-offset: 10%;
+        } */
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: black;
+            border-width: 4px;
+            width: 15%;
+            /* margin: auto; */
+        }
+        h1,h3{
+            color: rgb(90, 123, 123);
+        }
